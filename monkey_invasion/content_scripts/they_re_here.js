@@ -136,7 +136,7 @@ $(document).ready(function () {
 		bangers.push(chrome.runtime.getURL(`mewsick/${i}.mp3`));
 	}
 
-	for (let i = 1; i <= 10; i++) {
+	for (let i = 1; i <= 13; i++) {
 		monkeys.push(chrome.runtime.getURL(`monkeys/${i}.gif`));
 	}
 
